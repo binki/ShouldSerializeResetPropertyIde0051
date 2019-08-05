@@ -1,0 +1,11 @@
+# Visual Studio things.
+*.suo
+*.user
+bin
+obj
+*.vs
+
+# Editor swap files.
+*.swp
+*\#*
+*~
